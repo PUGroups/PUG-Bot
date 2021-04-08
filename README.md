@@ -38,3 +38,17 @@ If you are issuing any kind of problem feel free to [open a new issue](https://g
 	 - `?rmword <word to remove>` allows admins to remove a previously added custom swear word.
 	 - `?infractions <user mention>` allows anyone to see the number of the infractions of the pinged user. This command does not require any permission.
 	 - `?clearall <user mention>` allows admins to clear all the infractions that an user has.
+
+## Coming soon:
+ - `?warn` command (probably next version)
+ - `?tempmute` command (later)
+ - `?tempban` command (later)
+ - Automtically add contributors to the developers database
+
+## Resources
+ - <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
+ - <a href="CONTRIBUTING.md">Contribution rules</a>
+ - <a href="Privacy%20Policy.md">Privay Policy</a>
+ - <a href="LICENSE">License</a>
+
+
