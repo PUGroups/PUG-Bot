@@ -1,5 +1,5 @@
 
-# Programmers Universal Group BOT
+# Programmers Universal Group Discord BOT (PUG Bot)
 
 This is the Programmers Universal Group Discord bot repo.
 
