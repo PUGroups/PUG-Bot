@@ -5,6 +5,8 @@ console/__pycache__/
 */__pycache__/
 *.py[cod]
 *.env
+*.replit
+.replit
 .env
 *.conf
 *.config
