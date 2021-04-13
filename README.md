@@ -7,8 +7,8 @@ This is the Programmers Universal Group Discord bot repo.
   <br>
 
 ## Contribute
-You can freely contribute to the developement of this bot. To do it, just [open a pull request](https://github.com/Programmers-Universal-Group/PUG-Bot/compare/pull...main).
-If you are issuing any kind of problem feel free to [open a new issue](https://github.com/Programmers-Universal-Group/PUG-Bot/issues/new) or to contact us on Discord. 
+You can freely contribute to the developement of this bot. To do it, just [open a pull request](https://github.com/PUGroups/PUG-Bot/compare/pull...main).
+If you are issuing any kind of problem feel free to [open a new issue](https://github.com/PUGroups/PUG-Bot/issues/new) or to contact us on Discord. 
  
  
  ## Commands
