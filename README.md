@@ -1,8 +1,6 @@
 # Programmers Universal Group Discord BOT (PUG Bot)
 ![a1412e5c-2794-47a2-a435-6c947724d477_rw_1200](https://user-images.githubusercontent.com/71369943/116653457-de0c2280-a9a4-11eb-924c-4fabee2aea13.gif)
 
-This is the Programmers Universal Group Discord bot repo.
-
   
   <br>
 
