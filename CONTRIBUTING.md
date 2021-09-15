@@ -1,6 +1,6 @@
-ntributing to Support
+# Contributing guidelines
 
-Thank you for taking the time to contribute. Please read the [CODE of CONDUCT](CODE_OF_CONDUCT.md).
+Thank you for taking the time to contribute. Please read the [Code of Conduct](https://github.com/PUGroups/PUG-Bot/blob/main/CODE_OF_CONDUCT.md).
 As a contributor, here are the guidelines we would like you to follow:
 
 - [Commit Message Guidelines](#commit)
@@ -13,7 +13,7 @@ In order to make git commit messages **easier to read** and faster to reason abo
 
 **Examples**:
 
-```
+```markdown
 docs(changelog): update changelog to beta.5
 docs: add API documentation to the bot
 test(server): add cache tests to the movie resource
